@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+  background-color: rgb(241, 241, 241);
+
+}
+
+h2{
+  text-align: center;
+  background-color: rgb(241, 241, 241);
+
+}
+
+body{
+  background-color: grey;
+}
+
+#input-box{
+  background-color: whitesmoke;
+}
+
+#comment-list{
+  background-color: rgb(70, 70, 70);
+  text-align: left;
+}
+
+#input-box{
+  box-sizing: border-box;
+}
