@@ -1,21 +1,13 @@
-h1{
+#chat-title{
   text-align: center;
   background-color: rgb(241, 241, 241);
-
-}
-
-h2{
-  text-align: center;
-  background-color: rgb(241, 241, 241);
-
+  margin: 10px;
 }
 
 body{
   background-color: grey;
-}
-
-#input-box{
-  background-color: whitesmoke;
+  width: 500px;
+  align-content: center;
 }
 
 #comment-list{
@@ -23,6 +15,21 @@ body{
   text-align: left;
 }
 
-#input-box{
-  box-sizing: border-box;
+#chat-input{
+  align-self:stretch;
+}
+
+#iput-box{
+  height: 40px;
+  background-color: rgb(156, 162, 185);
+}
+
+#chat-box {
+  height: 500px;
+  background-color: aliceblue;
+  padding:4px;
+  width: 500px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
 }
