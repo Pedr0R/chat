@@ -3,5 +3,4 @@
 
 -É um projetinho pessoal que consiste em uma ferramenta de bate-papo simples para web.
 
-![image](https://user-images.githubusercontent.com/90324497/156832311-6399db1c-2576-43ec-bcd8-0338598962b0.png)
-
+![image](https://user-images.githubusercontent.com/90324497/156852090-e01f3329-16a0-4919-b847-4f00a1a94877.png)
