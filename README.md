@@ -3,7 +3,11 @@
 
 * Its a personal project that consists in a simple chat tool for web. 
 
-![image](https://user-images.githubusercontent.com/90324497/156852090-e01f3329-16a0-4919-b847-4f00a1a94877.png)
+![image](https://user-images.githubusercontent.com/90324497/157098219-6453a517-2ecc-47c0-b828-7369d5df5a3e.png)
+
+# Working on:
+* Node.js server
+* Username apearence
 
 # Future features:
 * User login system
