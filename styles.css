@@ -1,0 +1,35 @@
+#chat-title{
+  text-align: center;
+  background-color: rgb(241, 241, 241);
+  margin: 10px;
+}
+
+body{
+  background-color: grey;
+  width: 500px;
+  align-content: center;
+}
+
+#comment-list{
+  background-color: rgb(70, 70, 70);
+  text-align: left;
+}
+
+#chat-input{
+  align-self:stretch;
+}
+
+#iput-box{
+  height: 40px;
+  background-color: rgb(156, 162, 185);
+}
+
+#chat-box {
+  height: 500px;
+  background-color: aliceblue;
+  padding:4px;
+  width: 500px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  text-align:justify;
+}
