@@ -7,6 +7,8 @@ app.get('/',function(req,res) {
   res.sendFile(__dirname+'/index.html');
 });
 
+// um dia eu termino esse projeto
+
 app.use("/static", express.static('./static/'));
 app.listen(process.env.port || 3000);
 console.log('Rodando na porta 3000')
