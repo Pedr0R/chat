@@ -1,4 +1,4 @@
-# chat
+# chat 
 - É um projetinho pessoal que consiste em uma ferramenta de bate-papo simples para web.
 
 * Its a personal project that consists in a simple chat tool for web. 
@@ -15,3 +15,4 @@
 * Customizable theme settings
 * Moderator panel
 * and maybe more in the future
+(um dia eu continuo esse projeto)
